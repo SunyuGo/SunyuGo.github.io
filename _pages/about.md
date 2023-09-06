@@ -16,6 +16,16 @@ Education
 * M.S. in Mechanical Engineering, Chongqing University, 2023
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+Honor
+======
+* National encouragement scholarships, 2018/2019
+* First-prize academic scholarships of CQUT, 2017/2018/2019
+* Outstanding student of CQUT, 2019
+* Outstanding graduates of CQUT, 2020
+* First-prize academic postgraduate scholarships of CQU, 2021/2022
+* Outstanding student of CQU, 2022
+* Outstanding graduates of CQU, 2022
+
 Work experience
 ======
 * Summer 2015: Research Assistant
