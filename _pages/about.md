@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my site, I will join the [Intelligent Microrobotics Lab (IML)](https://www.imlyu.com/) as a research assistant and PhD candidate in School of Science and Engineering at the Chinese University of Hong Kong, Shenzhen where I work with [Prof. Jiangfan Yu](https://sse.cuhk.edu.cn/en/faculty/yujiangfan). I will conduct research on micronanorobotics and medical robotics in health-care applications.
 
-Before I joined the SSE at CUHKSZ, I did my Bachelors in Vehicle Engineering at CQUT and Masters in Mechanical Engineering at CQU where I started my research on Multibody Dynamics and Machine Learning with [Prof. Yongjun Pan]（https://faculty.cqu.edu.cn/YongjunPan/zh_CN/index/338379/list/index.htm.
+Before I joined the SSE at CUHKSZ, I did my Bachelors in Vehicle Engineering at CQUT and Masters in Mechanical Engineering at CQU where I started my research on Multibody Dynamics and Machine Learning with [Prof. Yongjun Pan](https://faculty.cqu.edu.cn/YongjunPan/zh_CN/index/338379/list/index.htm).
 
 Education
 ======
