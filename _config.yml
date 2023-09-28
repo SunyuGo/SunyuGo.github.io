@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yu Sun"
   avatar           : "profile.png"
-  bio              : "PhD candidate"
-  location         : "Chongqing, China"
+  bio              : "RA (PhD Candidate) at CUHKSZ"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "yu.sun@cqu.edu.cn"
+  email            :  "sunyucq@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  Wechat           : "http://stackoverflow.com/users/123456/username"
 
 
 # Reading Files
