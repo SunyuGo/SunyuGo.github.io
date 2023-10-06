@@ -4,5 +4,6 @@ title: "CV"
 permalink: /cv/
 
 ---
-<iframe src='https://view.officeapps.live.com/op/view.aspx?src=/files/pdf/CV.pdf' width='150%' height='300%' frameborder='1'>
-</iframe>
+<iframe src="/files/pdf/CV.pdf" width="100%" height="100%">Please download the PDF to view it: <a href="/files/pdf/CV.pdf">Download PDF</a></iframe>
+
+
