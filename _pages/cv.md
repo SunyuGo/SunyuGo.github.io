@@ -4,6 +4,6 @@ title: "CV"
 permalink: /cv/
 
 ---
-<embed src="/files/pdf/CV.pdf" type="application/pdf" width="200%" height="300%">
+<embed src="/files/pdf/CV.pdf" type="application/pdf" width="100%" height="150%" palette="red|black" align=center>
 
 
