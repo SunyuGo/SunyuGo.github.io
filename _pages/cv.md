@@ -4,5 +4,5 @@ title: "CV"
 permalink: /cv/
 
 ---
-<a href="files/pdf/CV.pdf" target="_blank">PDF.</a>
+<embed src="files/pdf/CV.pdf" type="application/pdf"/>
 </iframe>
