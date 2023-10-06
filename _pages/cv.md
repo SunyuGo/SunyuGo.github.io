@@ -4,4 +4,5 @@ title: "CV"
 permalink: /cv/
 
 ---
-<iframe src="CV.pdf" class="pdf_box"></iframe>
+<iframe src='https://view.officeapps.live.com/op/view.aspx?src=http://storage.xuetangx.com/public_assets/xuetangx/PDF/1.xls' width='100%' height='100%' frameborder='1'>
+</iframe>
