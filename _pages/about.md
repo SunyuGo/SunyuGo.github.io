@@ -31,4 +31,4 @@ Honors
 Map
 ======
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3681.1281984677844!2d114.2082894839385!3d22.686271086923504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-CN!2shk!4v1696591337311!5m2!1szh-CN!2shk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.1167666502824!2d114.20845041647941!3d22.686696732586487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13 1!3m3!1m2!1s0x3404769e8e03db83%3A0x72bee586ac015803!2z6aaZ5riv5Lit5paH5aSn5a2m77yI5rex5Zyz77yJ!5e0!3m2!1szh-CN!2shk!4v1696591487071!5m2!1szh-CN!2shk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
