@@ -31,4 +31,4 @@ Honors
 Map
 ======
 
-<iframe src="https://www.google.com.hk/maps/place/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89/@22.687845,114.2073561,17z/data=!3m1!4b1!4m6!3m5!1s0x3404769e8e03db83:0x72bee586ac015803!8m2!3d22.687845!4d114.209931!16s%2Fg%2F11x7vd6b2?entry=ttu" width="500" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://maps.app.goo.gl/bAqV5pd7CiXYdmPE7" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
