@@ -31,4 +31,4 @@ Honors
 Map
 ======
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d306141.380212437!2d126.3453416664724!3d33.3711157139061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350ce3544cc84045%3A0x66bc36d2981ebf31!2sJeju-do%2C+South+Korea!5e0!3m2!1sen!2sus!4v1473136714592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com.hk/maps/place/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89/@22.687845,114.2073561,17z/data=!3m1!4b1!4m6!3m5!1s0x3404769e8e03db83:0x72bee586ac015803!8m2!3d22.687845!4d114.209931!16s%2Fg%2F11x7vd6b2?entry=ttu" width="500" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
