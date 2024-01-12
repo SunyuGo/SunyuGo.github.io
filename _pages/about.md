@@ -35,4 +35,4 @@ Map
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3003.8577951742313!2d106.44979346895913!3d29.559612945511976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36eccb948120ecb1%3A0xbcacf824c7bdf803!2z6YeN5bqG5aSn5a2m!5e0!3m2!1szh-CN!2sjp!4v1699616612520!5m2!1szh-CN!2sjp" width="500" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-<a href="https://clustrmaps.com/site/1by5b"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=hXQLwwCxkCK3JghW0KR3xguEOAPYym4rVo8ubMr4ypI&cl=ffffff" /></a>
+<body><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hXQLwwCxkCK3JghW0KR3xguEOAPYym4rVo8ubMr4ypI&cl=ffffff&w=a"></script></body>
