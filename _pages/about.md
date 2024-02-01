@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my site, I will join the [Intelligent Microrobotics Lab (IML)](https://www.imlyu.com/) as a research assistant and PhD candidate in School of Science and Engineering at the Chinese University of Hong Kong, Shenzhen where I work with [Prof. Jiangfan Yu](https://sse.cuhk.edu.cn/en/faculty/yujiangfan). I will conduct research on micronanorobotics and medical robotics in health-care applications.
+Welcome to my site！I'm a first-year robotics PhD candidate at the University of New South Wales'School of Mechanical and Manufacturing Engineering, co-advised by [Dr.Leo Wu](https://www.drliaowu.com) and [Prof. Jay Katupitiya](https://www.unsw.edu.au/staff/jay-katupitiya). My research interest lies in the areas of Medical Robotics, such as Flexible Robots for Autonomous Minimally Invasive Surgery and Assistive Robots with Artificial Muscles and Wearable Sensors. I’m funded through the University International Postgraduate Award.
 
-Before I joined the SSE at CUHKSZ, I did my Bachelors in Vehicle Engineering at CQUT and Masters in Mechanical Engineering at CQU where I started my research on Multibody Dynamics and Machine Learning with [Prof. Yongjun Pan](https://faculty.cqu.edu.cn/YongjunPan/zh_CN/index/338379/list/index.htm).
+Prior to joining UNSW, I earned my Bachelor's degree from the School of Vehicle Engineering at Chongqing University of Technology and Master's degree from the College of Mechanical and Vehicle Engineering at Chongqing University where I started my research on Multibody Dynamics and Machine Learning with [Prof. Yongjun Pan](https://faculty.cqu.edu.cn/YongjunPan/zh_CN/index/338379/list/index.htm).
 
 Education
 ======
